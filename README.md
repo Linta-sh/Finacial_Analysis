@@ -1,1 +1,1 @@
-# Finacial_Analysis
+# Financial_Analysis
